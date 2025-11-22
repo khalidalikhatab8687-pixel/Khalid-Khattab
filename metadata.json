@@ -1,0 +1,7 @@
+{
+  "name": "Ramesses II - The Living Pharaoh",
+  "description": "Have a real-time voice conversation with Pharaoh Ramesses II in Egyptian Arabic using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
